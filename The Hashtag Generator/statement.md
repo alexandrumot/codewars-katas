@@ -10,6 +10,7 @@ Here's the deal:
 
 Examples
 
-`" Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
-"    Hello     World   "                  =>  "#HelloWorld"
-""                                        =>  false`
+`"`Hello there thanks for trying my Kata"``=>``"#HelloThereThanksForTryingMyKata"
+"````Hello``````World`````"````````````````=>``"#HelloWorld"
+""`````````````````````````````````````````=>``false`
+                                       
