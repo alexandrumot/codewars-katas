@@ -10,6 +10,6 @@ Here's the deal:
 
 Examples
 
-"Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"\n
+"Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"<br>
 ""                                       =>  false
                                        
