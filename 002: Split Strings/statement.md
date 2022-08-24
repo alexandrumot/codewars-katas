@@ -5,4 +5,6 @@ Complete the solution so that it splits the string into pairs of two characters.
 ## Examples:
 
 - `'abc' =>  ['ab', 'c_']`<br>
-- `'abcdef' => ['ab', 'cd', 'ef']`
+- `'abcdef' => ['ab', 'cd', 'ef']`<br>
+
+<br>Link: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001

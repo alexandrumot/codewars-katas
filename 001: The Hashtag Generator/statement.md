@@ -7,12 +7,12 @@ Here's the deal:
 
 - It must start with a hashtag (`#`).
 - All words must have their first letter capitalized.
-- If the final result is longer than 140 chars it must return `false`.
-- If the input or the result is an empty string it must return `false`.
+- If the final result is longer than 140 chars it must return `False`.
+- If the input or the result is an empty string it must return `False`.
 
 ## Examples:
 
-"Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"<br>
-""                                       =>  false
+`"Hello there thanks for trying my Kata"==>"#HelloThereThanksForTryingMyKata"`<br>
+`""==>False`<br>
                                        
-Link: https://www.codewars.com/kata/52449b062fb80683ec000024
+<br>Link: https://www.codewars.com/kata/52449b062fb80683ec000024
