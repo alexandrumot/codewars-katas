@@ -11,3 +11,9 @@ def strip_comments(strng, markers):
             result.append(line.rstrip())
                 
     return '\n'.join(result)
+
+
+
+
+# Time Complexity - O(a * b)
+# Space Complexity - O(n)

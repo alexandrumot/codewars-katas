@@ -7,3 +7,8 @@ def solution(s):
         result.append(s[i]+s[i+1])
     return result
 
+
+
+
+# Time Complexity - O(n)
+# Space Complexity - O(n)
