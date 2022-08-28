@@ -15,4 +15,4 @@ Here's the deal:
 `"Hello there thanks for trying my Kata"==>"#HelloThereThanksForTryingMyKata"`<br>
 `""==>False`<br>
                                        
-<br>Link: https://www.codewars.com/kata/52449b062fb80683ec000024
+<br>[Solution] (https://www.codewars.com/kata/52449b062fb80683ec000024)
