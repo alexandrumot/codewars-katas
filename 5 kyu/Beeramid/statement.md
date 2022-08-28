@@ -18,4 +18,4 @@ beeramid(1500, 2); // should === 12
 beeramid(5000, 3); // should === 16
 ```
 
-### <br>[Solution](main.py)
+### [Solution](main.py)

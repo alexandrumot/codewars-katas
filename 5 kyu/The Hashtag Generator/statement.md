@@ -18,4 +18,4 @@ Here's the deal:
 ""                                        =>  false
 ```
                                        
-### <br>[Solution](main.py)
+### [Solution](main.py)
