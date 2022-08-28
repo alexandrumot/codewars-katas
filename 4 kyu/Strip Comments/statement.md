@@ -4,14 +4,20 @@ Complete the solution so that it strips all text that follows any of a set of co
 
 ## Example:
 
-- Input:<br>
-`apples, pears # and bananas`<br>
-`grapes`<br>
-`bananas !apples`<br>
+### Input:
 
-- Output:<br>
-`apples, pears`<br>
-`grapes`<br>
-`bananas`<br>
+```
+apples, pears # and bananas
+grapes
+bananas !apples
+```
 
-<br>Link: https://www.codewars.com/kata/51c8e37cee245da6b40000bd
+### Output:
+
+```
+apples, pears
+grapes
+bananas
+```
+
+## <br>[Solution](main.py)

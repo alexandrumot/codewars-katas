@@ -12,7 +12,10 @@ Here's the deal:
 
 ## Examples:
 
-`"Hello there thanks for trying my Kata"==>"#HelloThereThanksForTryingMyKata"
-""==>False`<br>
+```
+" Hello there thanks for trying my Kata"  =>  "#HelloThereThanksForTryingMyKata"
+"    Hello     World   "                  =>  "#HelloWorld"
+""                                        =>  false
+```
                                        
-<br>[Solution] (https://www.codewars.com/kata/52449b062fb80683ec000024)
+## <br>[Solution](main.py)
