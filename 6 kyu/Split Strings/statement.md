@@ -9,4 +9,4 @@ Complete the solution so that it splits the string into pairs of two characters.
 'abcdef' => ['ab', 'cd', 'ef']
 ```
 
-## <br>[Solution](main.py)
+### <br>[Solution](main.py)

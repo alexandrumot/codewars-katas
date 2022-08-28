@@ -26,4 +26,4 @@ Throw       Score
 2 4 4 5 4   450:  400 (for three 4s) + 50 (for the 5)
 ```
 
-## <br>[Solution](main.py)
+### <br>[Solution](main.py)
