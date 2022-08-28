@@ -20,4 +20,4 @@ grapes
 bananas
 ```
 
-### <br>[Solution](main.py)
+### [Solution](main.py)
