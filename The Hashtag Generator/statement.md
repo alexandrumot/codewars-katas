@@ -12,7 +12,7 @@ Here's the deal:
 
 ## Examples:
 
-`"Hello there thanks for trying my Kata"==>"#HelloThereThanksForTryingMyKata"`<br>
-`""==>False`<br>
+`"Hello there thanks for trying my Kata"==>"#HelloThereThanksForTryingMyKata"
+""==>False`<br>
                                        
 <br>[Solution] (https://www.codewars.com/kata/52449b062fb80683ec000024)
